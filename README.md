@@ -28,3 +28,6 @@ Users_Dataset_15Tweets| 1101
 The python scripts folder contains two python scripts: cleaning script and tweets streaming script.
 
 *Pleas Cite this dataset as:*
+@article{ALHARTHI2021101740,
+title = {A real-time deep-learning approach for filtering Arabic low-quality content and accounts on Twitter},
+journal = {Information Systems}, volume = {99}, pages = {101740}, year = {2021}, issn = {0306-4379}, doi = {https://doi.org/10.1016/j.is.2021.101740}, url = {https://www.sciencedirect.com/science/article/pii/S0306437921000120}, author = {Reem Alharthi and Areej Alhothali and Kawthar Moria},}
